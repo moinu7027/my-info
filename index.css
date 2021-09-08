@@ -1,0 +1,60 @@
+div{
+    width: 960px;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 36px;
+    color: #2c2c2c;
+    margin-left: 31px;
+    margin-top: 60px;
+    
+}
+h1{
+    color: #2C2C2C;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 50px;
+    margin-left: 40px;
+    margin-top: -20px;
+    margin-top: -20px;
+
+}
+p{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+h3{
+    margin-left: 42px;
+    font-size: 19px;
+    color: low black;
+}
+ul{
+    list-style-type: none;
+   
+   
+
+}
+li{
+    margin: 4px;
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+
+}
+.sub{
+    margin-left: 60px;
+    font-size: 20px;
+}
+h4{
+    margin-left: -19px;
+    font-size: 24px;
+    color: low black;
+}
+img{
+    margin-left: 64px;
+}
